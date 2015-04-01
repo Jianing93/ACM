@@ -1,6 +1,6 @@
 /*
-  note:
-  use double to prevent overflow when calculate sqrt(r * r - w * w / 4.0)
+  Note: Use double to avoid overflow when calculate sqrt(r * r - w * w / 4.0)
+  Tags: greedy
  */
 #include<bits/stdc++.h>
 

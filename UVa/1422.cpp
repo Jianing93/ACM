@@ -1,3 +1,7 @@
+/*
+  Note that R should be init as 10^7, got stuck here for long time :(
+  Tags: binary search, priority queue, greedy
+ */
 #include<bits/stdc++.h>
 
 using namespace std;
