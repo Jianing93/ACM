@@ -1,3 +1,8 @@
+/*
+  Note: No need to use priority queue, but I did it :( 
+        sort, then an arithmetic sequence will do the same.(To minimize the total number of bags in any one piece that must be carried).
+  Tags: greedy
+ */
 #include<bits/stdc++.h>
 
 using namespace std;
